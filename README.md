@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jash Shah
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Python Backend
+- 👀 I’m interested in Full Stack Development 
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

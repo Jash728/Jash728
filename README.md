@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=jash728&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1s4JBABJcEQ1ZRmD0CbjFW&ust=1685709063946000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjj4eCJov8CFQAAAAAdAAAAABAE)" alt="jash728" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jash728&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1s4JBABJcEQ1ZRmD0CbjFW&ust=1685709063946000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjj4eCJov8CFQAAAAAdAAAAABAE)" alt="jash728" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 

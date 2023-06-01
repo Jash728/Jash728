@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jash Shah</h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jash728&label=Profile%20views&color=0e75b6&style=flat" alt="jash728" /> </p>
+
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=jash728&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1s4JBABJcEQ1ZRmD0CbjFW&ust=1685709063946000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjj4eCJov8CFQAAAAAdAAAAABAE)" alt="jash728" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 

@@ -8,7 +8,7 @@
         alt="CODER"
         align="right" 
         width ="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samyakkotharii&label=Profile%20views&color=0e75b6&style=flat" alt="samyakkotharii" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samyakkotharii&label=Profile%20views&color=0e75b6&style=flat" alt="jash" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 

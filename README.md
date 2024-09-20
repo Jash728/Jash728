@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shahjash2809@gmail.com**
 
-- My Portfolio - https://jash7.vercel.app/
+- My Portfolio - https://jash-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
